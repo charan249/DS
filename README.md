@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/charan249/DS/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/charan249/DS/tree/master/0205-isomorphic-strings) |
+| [0520-detect-capital](https://github.com/charan249/DS/tree/master/0520-detect-capital) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/charan249/DS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
