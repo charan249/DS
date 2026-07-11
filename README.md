@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/charan249/DS/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/charan249/DS/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charan249/DS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/charan249/DS/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/charan249/DS/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/charan249/DS/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
