@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charan249/DS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/charan249/DS/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
