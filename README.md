@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/charan249/DS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/charan249/DS/tree/master/0061-rotate-list) |
 | [0344-reverse-string](https://github.com/charan249/DS/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/charan249/DS/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/charan249/DS/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/charan249/DS/tree/master/1291-sequential-digits) |
+## Math
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/charan249/DS/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/charan249/DS/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
