@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/charan249/DS/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/charan249/DS/tree/master/0205-isomorphic-strings) |
 ## String Matching
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/charan249/DS/tree/master/0633-sum-of-square-numbers) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/charan249/DS/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
