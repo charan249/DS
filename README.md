@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/charan249/DS/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/charan249/DS/tree/master/0036-valid-sudoku) |
 | [0205-isomorphic-strings](https://github.com/charan249/DS/tree/master/0205-isomorphic-strings) |
 ## String Matching
 |  |
@@ -55,4 +56,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/charan249/DS/tree/master/0001-two-sum) |
+| [0036-valid-sudoku](https://github.com/charan249/DS/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/charan249/DS/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
