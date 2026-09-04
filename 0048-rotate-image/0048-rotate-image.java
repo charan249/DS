@@ -16,7 +16,6 @@ class Solution {
         matrix[i][n - j - 1] = temp;
     }
 }
-        System.out.println(Arrays.deepToString(matrix));
         
     }
 }
