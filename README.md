@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/charan249/DS/tree/master/0048-rotate-image) |
 | [0633-sum-of-square-numbers](https://github.com/charan249/DS/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
@@ -57,8 +58,10 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/charan249/DS/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/charan249/DS/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/charan249/DS/tree/master/0048-rotate-image) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/charan249/DS/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/charan249/DS/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
