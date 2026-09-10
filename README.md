@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/charan249/DS/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/charan249/DS/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/charan249/DS/tree/master/0061-rotate-list) |
 | [0876-middle-of-the-linked-list](https://github.com/charan249/DS/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/charan249/DS/tree/master/0179-largest-number) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/charan249/DS/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
