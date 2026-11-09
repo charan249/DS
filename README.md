@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0178-rank-scores](https://github.com/charan249/DS/tree/master/0178-rank-scores) |
 | [0182-duplicate-emails](https://github.com/charan249/DS/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/charan249/DS/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/charan249/DS/tree/master/0184-department-highest-salary) |
 ## Greedy
 |  |
 | ------- |
