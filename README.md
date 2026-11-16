@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/charan249/DS/tree/master/0633-sum-of-square-numbers) |
+| [0704-binary-search](https://github.com/charan249/DS/tree/master/0704-binary-search) |
 ## Array
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/charan249/DS/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/charan249/DS/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/charan249/DS/tree/master/0179-largest-number) |
+| [0704-binary-search](https://github.com/charan249/DS/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
