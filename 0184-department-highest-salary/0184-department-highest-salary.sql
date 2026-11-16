@@ -1,8 +1,8 @@
 # Write your MySQL query statement below
-select  Department,Employee,salary
+select department as Department, name as Employee ,salary
 from(
-select Department.name as Department,Employee.name as Employee,Salary,
-dense_rank() over(partition by Department.name order by salary desc) as temp
+select Employee.name as name ,Employee.salary,Department.name as department,
+dense_rank() over(partition by departmentId order by salary desc) as temp
 from Employee join Department
-on Employee.departmentId=Department.id) as output
+on Employee.departmentId=Department.id) as new
 where temp=1;
