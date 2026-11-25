@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/charan249/DS/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/charan249/DS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/charan249/DS/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0012-integer-to-roman](https://github.com/charan249/DS/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/charan249/DS/tree/master/0048-rotate-image) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/charan249/DS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0633-sum-of-square-numbers](https://github.com/charan249/DS/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/charan249/DS/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/charan249/DS/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/charan249/DS/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/charan249/DS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0179-largest-number](https://github.com/charan249/DS/tree/master/0179-largest-number) |
 | [0704-binary-search](https://github.com/charan249/DS/tree/master/0704-binary-search) |
 ## Matrix
